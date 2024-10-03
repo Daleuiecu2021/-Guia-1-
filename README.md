@@ -1,10 +1,16 @@
-# 👋 Welcome to A Product
+---
+cover: >-
+  https://images.unsplash.com/photo-1726165534092-982c2eaa95d2?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc5NjAxODJ8&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# 👋 Bienvenidos a la guía
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+La mejor manera de aprende a modificar el proyecto,&#x20;
 {% endhint %}
 
-## Overview
+## Instrucciones
 
 Here are a couple of example overviews from products with really great docs:
 
@@ -18,28 +24,28 @@ Here are a couple of example overviews from products with really great docs:
 >
 > — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Quick links
+## Códigos modificables
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="overview/html.md" %}
+[html.md](overview/html.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="overview/css.md" %}
+[css.md](overview/css.md)
 {% endcontent-ref %}
 
-## Get Started
+## Instrucciones recomendables (java)
 
-We've put together some helpful guides for you to get setup with our product quickly and easily.
+En esta sección te doy la idea para la instalación de los programas necesarios para modificar el proyector, pero también te dejo una recomendación si quieres manipular el script java.
 
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
+{% content-ref url="fundamentals/instalacion-de-visual-code/" %}
+[instalacion-de-visual-code](fundamentals/instalacion-de-visual-code/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="fundamentals/instalacion-de-visual-code/codigo-java-logica-del-programa.md" %}
+[codigo-java-logica-del-programa.md](fundamentals/instalacion-de-visual-code/codigo-java-logica-del-programa.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
+{% content-ref url="fundamentals/instalacion-de-visual-code/inviting-members.md" %}
+[inviting-members.md](fundamentals/instalacion-de-visual-code/inviting-members.md)
 {% endcontent-ref %}

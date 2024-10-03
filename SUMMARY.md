@@ -1,11 +1,11 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Bienvenidos a la guía](README.md)
 
 ## Overview
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [💡 HTML](overview/html.md)
+* [✨ CSS](overview/css.md)
 
 ## Product Guides
 
@@ -14,9 +14,9 @@
 
 ## Fundamentals
 
-* [🛠️ Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠️ Instalación de Visual code](fundamentals/instalacion-de-visual-code/README.md)
+  * [📝 Código Java (lógica del programa)](fundamentals/instalacion-de-visual-code/codigo-java-logica-del-programa.md)
+  * [🧑 Inviting Members](fundamentals/instalacion-de-visual-code/inviting-members.md)
 
 ## Use Cases
 
