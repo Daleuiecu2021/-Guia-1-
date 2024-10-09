@@ -7,7 +7,7 @@ coverY: 0
 # 👋 Bienvenidos a la guía
 
 {% hint style="info" %}
-La mejor manera de aprende a modificar el proyecto,&#x20;
+La mejor manera de aprende a modificar el proyecto en HTML Y CSS
 {% endhint %}
 
 ## Instrucciones
@@ -26,26 +26,26 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Códigos modificables
 
-{% content-ref url="overview/html.md" %}
-[html.md](overview/html.md)
+{% content-ref url="cambios-principales/html.md" %}
+[html.md](cambios-principales/html.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/css.md" %}
-[css.md](overview/css.md)
+{% content-ref url="cambios-principales/css.md" %}
+[css.md](cambios-principales/css.md)
 {% endcontent-ref %}
 
 ## Instrucciones recomendables (java)
 
 En esta sección te doy la idea para la instalación de los programas necesarios para modificar el proyector, pero también te dejo una recomendación si quieres manipular el script java.
 
-{% content-ref url="fundamentals/instalacion-de-visual-code/" %}
-[instalacion-de-visual-code](fundamentals/instalacion-de-visual-code/)
+{% content-ref url="cambios-secundarios/contenido-adicional/" %}
+[contenido-adicional](cambios-secundarios/contenido-adicional/)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/instalacion-de-visual-code/codigo-java-logica-del-programa.md" %}
-[codigo-java-logica-del-programa.md](fundamentals/instalacion-de-visual-code/codigo-java-logica-del-programa.md)
+{% content-ref url="cambios-secundarios/contenido-adicional/codigo-java-logica-del-programa.md" %}
+[codigo-java-logica-del-programa.md](cambios-secundarios/contenido-adicional/codigo-java-logica-del-programa.md)
 {% endcontent-ref %}
 
-{% content-ref url="fundamentals/instalacion-de-visual-code/inviting-members.md" %}
-[inviting-members.md](fundamentals/instalacion-de-visual-code/inviting-members.md)
+{% content-ref url="cambios-secundarios/contenido-adicional/instalacion-del-motor-de-codigo.md" %}
+[instalacion-del-motor-de-codigo.md](cambios-secundarios/contenido-adicional/instalacion-del-motor-de-codigo.md)
 {% endcontent-ref %}
